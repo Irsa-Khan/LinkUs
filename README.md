@@ -30,7 +30,3 @@ cd LinkUs
 👩‍💻 Hafiza Irsa (063775)
 👩‍💻 Malika Amir (063807)
 Supervisor: Umer Sir
-## 📝 License  
-
-This project is for **educational purposes (Final Year Project)** only.  
-Unauthorized commercial use or distribution is not allowed.  
