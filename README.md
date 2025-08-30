@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Irsa-Khan/LinkUs/raw/main/frontend/public/logo.png" alt="LinkUs Logo" width="50" style="vertical-align: middle;" />
-  <span style="font-size: 2em; font-weight: bold; vertical-align: middle;">LinkUs</span>
+  <span style="font-size: 6em; font-weight: bold; vertical-align: middle;">LinkUs</span>
 </p>
 
 
