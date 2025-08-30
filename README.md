@@ -1,13 +1,12 @@
-<p align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github.com/Irsa-Khan/LinkUs/raw/main/frontend/public/logo.png" alt="LinkUs Logo" width="150" style="vertical-align: middle; margin-right: 20px;" />
-  <span style="font-size: 20em; font-weight: bold; vertical-align: middle;">LinkUs</span>
-</p>
-
 
 [![GitHub stars](https://img.shields.io/github/stars/Irsa-Khan/LinkUs?style=social)](https://github.com/Irsa-Khan/LinkUs/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Irsa-Khan/LinkUs?style=social)](https://github.com/Irsa-Khan/LinkUs/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/Irsa-Khan/LinkUs)](https://github.com/Irsa-Khan/LinkUs/issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+<p align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github.com/Irsa-Khan/LinkUs/raw/main/frontend/public/logo.png" alt="LinkUs Logo" width="150" style="vertical-align: middle; margin-right: 20px;" />
+</p>
 
 ## 📖 About LinkUs
 
