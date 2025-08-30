@@ -1,7 +1,8 @@
-# <p align="center">
-  <img src="https://github.com/Irsa-Khan/LinkUs/raw/main/frontend/public/logo.png" alt="LinkUs Logo" width="150" />
+<p align="center">
+  <img src="https://github.com/Irsa-Khan/LinkUs/raw/main/frontend/public/logo.png" alt="LinkUs Logo" width="50" style="vertical-align: middle;" />
+  <span style="font-size: 2em; font-weight: bold; vertical-align: middle;">LinkUs</span>
 </p>
- LinkUs
+
 
 [![GitHub stars](https://img.shields.io/github/stars/Irsa-Khan/LinkUs?style=social)](https://github.com/Irsa-Khan/LinkUs/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Irsa-Khan/LinkUs?style=social)](https://github.com/Irsa-Khan/LinkUs/network/members)
