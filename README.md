@@ -50,16 +50,6 @@ Upload and send images in chat
 
 ---
 
-📂 Project Structure:
-
-LinkUs/
-├── client/            # Frontend (React + TailwindCSS + Zustand)
-├── server/            # Backend (Node.js + Express + MongoDB)
-├── package.json
-└── README.md
-
----
-
 👩‍💻 Project Members:
 
 Hafiza Irsa (063775) Maida Batool (063751) Malika Amir (063807)
