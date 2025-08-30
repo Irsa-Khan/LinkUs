@@ -41,7 +41,7 @@ Built with React, Node.js, Express, MongoDB, Socket.IO,TailwindCSS, and Zustand.
 git clone https://github.com/Irsa-Khan/LinkUs.git
 cd LinkUs
 
-### 2 Install dependencies:
+### 2 **Install dependencies**:
 
 # Backend
 cd server
