@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Irsa-Khan/LinkUs/raw/main/frontend/public/logo.png" alt="LinkUs Logo" width="100" style="vertical-align: middle;" />
+  <img src="https://github.com/Irsa-Khan/LinkUs/raw/main/frontend/public/logo.png" alt="LinkUs Logo" width="200" style="vertical-align: middle;" />
   <span style="font-size: 10em; font-weight: bold; vertical-align: middle;">LinkUs</span>
 </p>
 
