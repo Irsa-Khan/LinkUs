@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="LinkUs Logo" width="150" />
+</p>
+
 # 🌟 LinkUs
 
 [![GitHub stars](https://img.shields.io/github/stars/Irsa-Khan/LinkUs?style=social)](https://github.com/Irsa-Khan/LinkUs/stargazers)
