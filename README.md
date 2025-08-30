@@ -8,7 +8,7 @@
   <img src="https://github.com/Irsa-Khan/LinkUs/raw/main/frontend/public/logo.png" alt="LinkUs Logo" width="150" style="vertical-align: middle; margin-right: 20px;" />
 </p>
 
-## 📖 About LinkUs
+## 📖 LinkUs
 
 LinkUs is a realtime messaging web application that allows users to:
 
